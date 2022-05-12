@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HairChemistry/static/css/main.975114dc.css",
+    "main.js": "/HairChemistry/static/js/main.a8700fec.js",
+    "static/media/HairChemistry.png": "/HairChemistry/static/media/HairChemistry.74ffd49ada58e7b1b43f.png",
+    "index.html": "/HairChemistry/index.html",
+    "main.975114dc.css.map": "/HairChemistry/static/css/main.975114dc.css.map",
+    "main.a8700fec.js.map": "/HairChemistry/static/js/main.a8700fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975114dc.css",
+    "static/js/main.a8700fec.js"
+  ]
+}
